@@ -2,6 +2,7 @@ import 'dart:io';
 
 void main() {
   NoteApp application = NoteApp();
+  print("This is the alpha test of our program");
 
   stdout.writeln("Welcome to our Note application!");
   while (true) {
